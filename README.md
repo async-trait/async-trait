@@ -1,4 +1,4 @@
-## I *am* versatility! 🛠️
+# I *<ins>am</ins>* versatility! 🛠️
 Programming is an art form, everything is interesting.
 
 ## I've explored (and am still actively researching):
