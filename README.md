@@ -1,4 +1,4 @@
-## I am versatility! 🛠️
+## I *am* versatility! 🛠️
 Programming is an art form, everything is interesting.
 
 ## I've explored (and am still actively researching):
@@ -10,21 +10,6 @@ Programming is an art form, everything is interesting.
 - Compiler/Language development (Primarily bytecode VM based)
 - UI + UX Design 🖼️
 - 3D Modeling ([**Blender** 🟠](https://www.blender.org))
-
-## Future expeditions!
-I began with writing software, but I've grown to love and appreciate all of STEM. It's all so amazing, I need to know it all!!! 😭 
-- Math 🔢 (The universal language! The fundamental base for all things!)
-- Networking 🖧
-- Game engine 🕹️
-- Physics engine ➡️
-- Operating system 🖥️
-- Web browser 🌐 (JavaScript 🟨 implementation and all!)
-- Electrical engineering ⚡
-- Mechanical engineering ⚙️
-- Robotics! 🤖
-- Architecture 🏡
-- Chemistry 🧪
-- Biology 🧬
 
 ## Programming languages
 Mostly interested in Rust 🦀 these days; it's simply the most versatile language and allows for some real clean abstractions!
@@ -69,3 +54,18 @@ But, I also have extensive experience in:
   - [Rojo 💯](https://rojo.space)
   - [roblox-ts 🟥](https://roblox-ts.com)
   - [wally 🐶](https://wally.run)
+
+## Future expeditions!
+I began with writing software, but I've grown to love and appreciate all of STEM. It's all so amazing, I need to know it all!!! 😭 
+- Math 🔢 (The universal language! The fundamental base for all things!)
+- Networking 🖧
+- Game engine 🕹️
+- Physics engine ➡️
+- Operating system 🖥️
+- Web browser 🌐 (JavaScript 🟨 implementation and all!)
+- Electrical engineering ⚡
+- Mechanical engineering ⚙️
+- Robotics! 🤖
+- Architecture 🏡
+- Chemistry 🧪
+- Biology 🧬
